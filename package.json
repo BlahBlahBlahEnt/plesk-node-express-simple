@@ -1,7 +1,7 @@
 {
   "name": "plesk-node-express-simple",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.0",
+  "private": false,
   "scripts": {
     "start": "nodemon ./bin/www"
   },
